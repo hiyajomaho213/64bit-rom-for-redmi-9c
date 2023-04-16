@@ -9,8 +9,8 @@ thanks Vlad72SC https://4pda.to/forum/index.php?showuser=3820827 for this firmwa
 firmware https://4pda.to/forum/index.php?showtopic=1049197&st=2860#entry121243915
 
 ## download links
-mail.ru https://cloud.mail.ru/public/Zu4j/ca5ph9tHo
-google drive
-mega https://mega.nz/file/oUtl3aTB#Y88dunBxOW5WSYEF3F162BAxOa-QxLcpTYTsr9b6XEg
-mediafire  
-anonfiles 
+* mail.ru https://cloud.mail.ru/public/Zu4j/ca5ph9tHo
+* google drive
+* mega https://mega.nz/file/oUtl3aTB#Y88dunBxOW5WSYEF3F162BAxOa-QxLcpTYTsr9b6XEg
+* mediafire  
+* anonfiles 
